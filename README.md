@@ -1,5 +1,6 @@
 DataLens
 DataLens is a transaction management application built with a React + Tailwind CSS frontend and a FastAPI + PostgreSQL backend. It allows users to add, view, and manage financial transactions with a modern, responsive UI featuring dark mode support.
+
 Features
 
 Add and view transactions with description and amount.
